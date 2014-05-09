@@ -1,0 +1,45 @@
+{
+    "cclose":
+    {
+    "category": "master",
+    "sounds":
+        [
+            "cclose"
+        ]
+    },
+    "copen":
+    {
+    "category": "master",
+    "sounds":
+        [
+            "copen"
+        ]
+    },
+    "tapeopen":
+    {
+    "category": "master",
+    "sounds":
+        [
+            "tapeopen"
+        ]
+    },
+    "tapeclose":
+    {
+    "category": "master",
+    "sounds":
+        [
+            "tapeclose"
+        ]
+    },
+    "screw":
+    {
+    "category": "master",
+    "sounds":
+        [
+            "screwone",
+            "screwtwo",
+            "screwthre",
+            "screwfour"
+        ]
+    }
+}
